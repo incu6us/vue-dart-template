@@ -1,0 +1,12 @@
+name: thrift2graphql_ui
+author: the author
+version: 0.1.0
+description: Project description goes here
+dependencies:
+  vue: ^0.4.2
+dependency_overrides:
+  vue:
+    path: .deps/vuedart/vue
+dev_dependencies:
+  build_runner: any
+  build_web_compilers: any
