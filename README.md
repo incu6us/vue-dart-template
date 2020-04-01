@@ -1,5 +1,7 @@
-thrift2graphql_ui
+vue-dart-template
 ---
+
+Template for VueJS with Dart
 
 # Get dependencies first
 ```
